@@ -1,0 +1,8 @@
+.blur-img {
+  -webkit-filter: blur(25px);
+  filter: blur(25px);
+}
+
+.toggeable {
+  border: 1px solid red;
+}
